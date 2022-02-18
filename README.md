@@ -27,7 +27,7 @@
 
 ![tartışma](https://user-images.githubusercontent.com/70479685/149483571-c2d404b8-ebea-4e86-b2be-47f27d0f35dc.jpeg)
 
-Proje Resimler
+Proje Resimler ve Kod Açıklamaları
 
 ![0001](https://user-images.githubusercontent.com/70479685/154641380-c14539ef-d0ec-4fb2-bc65-af9f436a2ba4.jpg)
 
